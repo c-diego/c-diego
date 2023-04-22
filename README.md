@@ -1,5 +1,7 @@
 # Hello, I am Diego! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333333&width=600&lines=diego@github~$+git+add+-A;diego@github~$+git+commit+-m+"First+Commit";diego@github~$+git+push+origin;diego@github~$+echo+"Hello+Wolrd!+🌎")](https://git.io/typing-svg)
+
 Hi there! My name is Diego Costa. I am from Minas Gerais, Brazil, and I am 22 years old. I am currently open to job opportunities.
 
 ## Social Media
@@ -26,3 +28,7 @@ See below some statistics of my profile on GitHub:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c-diego&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-diego&layout=compact&langs_count=7&theme=prussian)
+
+## Thanks for visiting :heart:
+
+<img src="https://profile-counter.glitch.me/c-diego/count.svg">  
