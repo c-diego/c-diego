@@ -9,5 +9,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-diegocosta13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegocosta13/)](https://www.linkedin.com/in/diegocosta13/)
 [![Instagram Badge](https://img.shields.io/badge/-diegocosta2023-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diegocosta2023/)](https://www.instagram.com/diegocosta2023/)
 [![Twitter Badge](https://img.shields.io/badge/-diegocosta2023-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/diegocosta2023)](https://twitter.com/diegocosta2023)
-
-<img src='https://github.com/user-attachments/assets/693c78a4-2065-42a2-b4af-c580f83a6e00' width='300' >
